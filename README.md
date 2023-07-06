@@ -1,3 +1,3 @@
 # tindog
 
-[Link text Here](https://buketsenol.github.io/tindog/)
+[Projemi görmek isterseniz tıklayın](https://buketsenol.github.io/tindog/)
