@@ -1,3 +1,3 @@
 # tindog
 
-[Link text Here](BuketSenol.github.io/buket profil/)
+[Link text Here](buketSenol.github.io/buket profil/)
